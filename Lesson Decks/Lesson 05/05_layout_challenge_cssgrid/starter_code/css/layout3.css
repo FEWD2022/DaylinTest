@@ -1,0 +1,36 @@
+
+.exerciseHeader, .exerciseFooter, .exerciseMain {
+    margin: 0 10px 10px 10px;
+}
+
+.exerciseMainFeatures {
+    display: grid;
+grid-template-columns: 1fr 1fr;
+gap: 10px;
+margin-bottom: 10px;
+
+}
+
+.exerciseMainFeatures .exerciseMarketingFeature {
+
+
+}
+
+.exerciseMainFeatures .exerciseMarketingFeature:first-child {
+
+}
+
+.exerciseAdditionalFeatures {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+}
+
+.exerciseAdditionalFeatures .exerciseMarketingFeature {
+
+
+}
+
+.exerciseAdditionalFeatures .exerciseMarketingFeature:first-child {
+
+}
